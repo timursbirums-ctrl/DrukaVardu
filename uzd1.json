@@ -1,0 +1,114 @@
+[
+  {
+    "nosaukums": "Ivory Coast",
+    "valuta": "XOF - West African CFA franc",
+    "galvaspilseta": "Yamoussoukro",
+    "populacija": 26378275,
+    "mezs": 8400000,
+    "lauksaimniecibas_zeme": 20800000,
+    "cita_veida_zeme": 3046000
+  },
+  {
+    "nosaukums": "Italy",
+    "valuta": "EUR - euro",
+    "galvaspilseta": "Rome",
+    "populacija": 59554023,
+    "mezs": 9500000,
+    "lauksaimniecibas_zeme": 13100000,
+    "cita_veida_zeme": 7533000
+  },
+  {
+    "nosaukums": "Kyrgyzstan",
+    "valuta": "KGS - Kyrgyzstani som",
+    "galvaspilseta": "Bishkek",
+    "populacija": 6591600,
+    "mezs": 1100000,
+    "lauksaimniecibas_zeme": 10500000,
+    "cita_veida_zeme": 8395000
+  },
+  {
+    "nosaukums": "Papua New Guinea",
+    "valuta": "PGK - Papua New Guinean kina",
+    "galvaspilseta": "Port Moresby",
+    "populacija": 8947027,
+    "mezs": 35800000,
+    "lauksaimniecibas_zeme": 1200000,
+    "cita_veida_zeme": 9286000
+  },
+  {
+    "nosaukums": "Fiji",
+    "valuta": "FJD - Fijian dollar",
+    "galvaspilseta": "Suva",
+    "populacija": 896444,
+    "mezs": 1000000,
+    "lauksaimniecibas_zeme": 425000,
+    "cita_veida_zeme": 402000
+  },
+  {
+    "nosaukums": "United Arab Emirates",
+    "valuta": "AED - United Arab Emirates dirham",
+    "galvaspilseta": "Abu Dhabi",
+    "populacija": 9890400,
+    "mezs": 310000,
+    "lauksaimniecibas_zeme": 380000,
+    "cita_veida_zeme": 7670000
+  },
+  {
+    "nosaukums": "Saint Kitts and Nevis",
+    "valuta": "XCD - Eastern Caribbean dollar",
+    "galvaspilseta": "Basseterre",
+    "populacija": 53192,
+    "mezs": 11000,
+    "lauksaimniecibas_zeme": 6000,
+    "cita_veida_zeme": 9000
+  },
+  {
+    "nosaukums": "French Guiana",
+    "valuta": "EUR - euro",
+    "galvaspilseta": "Cayenne",
+    "populacija": 290691,
+    "mezs": 8000000,
+    "lauksaimniecibas_zeme": 15000,
+    "cita_veida_zeme": 338000
+  },
+  {
+    "nosaukums": "Tanzania",
+    "valuta": "TZS - Tanzanian shilling",
+    "galvaspilseta": "Dodoma",
+    "populacija": 59734213,
+    "mezs": 45700000,
+    "lauksaimniecibas_zeme": 39600000,
+    "cita_veida_zeme": 9430000
+  },
+  {
+    "nosaukums": "Angola",
+    "valuta": "AOA - Angolan kwanza",
+    "galvaspilseta": "Luanda",
+    "populacija": 32866268,
+    "mezs": 66000000,
+    "lauksaimniecibas_zeme": 58000000,
+    "cita_veida_zeme": 670000
+  },
+  {
+    "nosaukums": "Togo",
+    "valuta": "XOF - West African CFA franc",
+    "galvaspilseta": "Lomé",
+    "populacija": 8278737,
+    "mezs": 1200000,
+    "lauksaimniecibas_zeme": 3800000,
+    "cita_veida_zeme": 678000
+  },
+  {
+    "nosaukums": "Finland",
+    "valuta": "EUR - euro",
+    "galvaspilseta": "Helsinki",
+    "populacija": 5530719,
+    "mezs": 22400000,
+    "lauksaimniecibas_zeme": 2270000,
+    "cita_veida_zeme": 9144000
+  },
+  {
+    "nosaukums": "Malawi",
+    "valuta": "MWK - Malawian kwacha",
+    "galvaspilseta": "Lilongwe",
+    "populacija":
